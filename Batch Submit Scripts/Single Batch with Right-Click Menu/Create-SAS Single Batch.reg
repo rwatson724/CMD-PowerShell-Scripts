@@ -1,0 +1,5 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\SAS Single Batch\command]
+@="\"C:\\Users\\gonza\\Desktop\\Conferences\\Drafts\\Commando\\SAS Single Batch DnD.bat\" \"%L\""
+
