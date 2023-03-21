@@ -1,4 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\*\shell\PowerShell DnD\command]
-@="C:\\\\Windows\\\\system32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe -File \"C:\\Users\\gonza\\Desktop\\Conferences\\Drafts\\Commando\\PowerShell_Drag_and_Drop.ps1\" \"%L\""
